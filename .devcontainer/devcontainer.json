@@ -8,7 +8,9 @@
                 "compassak.intellij-idea-new-ui",
                 "faridkazim.file-creator-intellij-idea-style",
                 "vscjava.vscode-java-pack",
-                "chadalen.vscode-jetbrains-icon-theme"
+                "chadalen.vscode-jetbrains-icon-theme",
+                "mathiasfrohlich.Kotlin",
+                "fwcd.kotlin"
             ]
         }
     }
