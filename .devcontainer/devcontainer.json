@@ -11,7 +11,14 @@
                 "vscjava.vscode-java-pack",
                 "chadalen.vscode-jetbrains-icon-theme",
                 "mathiasfrohlich.Kotlin",
-                "fwcd.kotlin"
+                "fwcd.kotlin",
+                "drcika.apc-extension",
+                "dbaeumer.vscode-eslint",
+				"EditorConfig.EditorConfig",
+				"GitHub.vscode-pull-request-github",
+				"ms-vscode.vscode-github-issue-notebooks",
+				"ms-vscode.vscode-selfhost-test-provider",
+				"mutantdino.resourcemonitor"
             ]
         }
     }

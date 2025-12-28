@@ -1,9 +1,11 @@
 {
   "workbench.colorTheme": "IntelliJ Dark Theme",
+  // All credits to the creator of the Expansions, including the icontheme. Find it at VSC Marketplace.
   "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-auto",
-  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  "editor.fontFamily": "JetBrains Mono, Menlo, Monaco, Courier New', monospace",
   "editor.fontSize": 16,
   "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
   "java.fixAll": "always",
   "breadcrumbs.enabled": false,
   "files.autoSave": "afterDelay",
@@ -13,5 +15,11 @@
   "editor.autoClosingBrackets": "always",
   "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
   "java.format.settings.profile": "GoogleStyle",
-  "editor.minimap.enabled": false
+  "editor.minimap.enabled": false,
+  // --- Terminal ----
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.lineHeight": 1.2,
+  "terminal.integrated.letterSpacing": 0,
+  "terminal.integrated.glyphMargin": 0
 }
