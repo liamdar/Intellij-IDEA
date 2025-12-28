@@ -1,8 +1,8 @@
 {
   "workbench.colorTheme": "IntelliJ Dark Theme",
-  "workbench.iconTheme": "faridkazim.file-creator-intellij-idea-style",
+  "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-auto",
   "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
-  "editor.fontSize": 16,
+  "editor.fontSize": 18,
   "editor.lineHeight": 22,
   "breadcrumbs.enabled": true,
   "files.autoSave": "afterDelay",
