@@ -1,6 +1,7 @@
 {
     "name": "Intellij IDEA",
     "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "postCreateCommand": "echo 'alias mbuild=\"mvn clean package\"' >> ~/.bashrc && echo 'alias gbuild=\"./gradlew clean package\"' >> ~/.bashrc",
     "customizations": {
         "vscode": {
             "extensions": [
