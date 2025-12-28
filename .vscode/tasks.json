@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "mbuild",
+            "type": "shell",
+            "command": "mvn clean package",
+            "group": "build"
+        },
+        {
+            "label": "gbuild",
+            "type": "shell",
+            "command": "./gradlew clean package",
+            "group": "build"
+        }
+    ]
+}
