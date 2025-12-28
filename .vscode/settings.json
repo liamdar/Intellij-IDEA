@@ -5,7 +5,6 @@
   "editor.fontSize": 16,
   "editor.lineHeight": 22,
   "java.fixAll": "always",
-  "postCreateCommand": "echo 'alias mbuild=\"mvn clean package\"' >> ~/.bashrc && echo 'alias gbuild=\"./gradlew clean package\"' >> ~/.bashrc",
   "breadcrumbs.enabled": false,
   "files.autoSave": "afterDelay",
   "editor.tabSize": 4,
