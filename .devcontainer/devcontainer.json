@@ -1,0 +1,15 @@
+{
+    "name": "Intellij IDEA",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "k--kato.intellij-idea-keybindings",
+                "compassak.intellij-idea-new-ui",
+                "faridkazim.file-creator-intellij-idea-style",
+                "vscjava.vscode-java-pack",
+                "chadalen.vscode-jetbrains-icon-theme"
+            ]
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "IntelliJ Dark Theme",
+  "workbench.iconTheme": "faridkazim.file-creator-intellij-idea-style",
+  "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+  "editor.fontSize": 16,
+  "editor.lineHeight": 22,
+  "breadcrumbs.enabled": true,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 4,
+  "editor.wordWrap": "on",
+  "java.format.settings.url": "https://raw.githubusercontent.com/google/styleguide/gh-pages/eclipse-java-google-style.xml",
+  "java.format.settings.profile": "GoogleStyle",
+  "editor.minimap.enabled": false
+}
